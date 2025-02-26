@@ -22659,7 +22659,17 @@
 			"PT-BR": "Capa do Adepto"
 		},
 		"Index": "2336",
-		"UniqueName": "T4_CAPE@3"
+		"UniqueName": "T4_CAPE@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_LEATHER_LEVEL3@3",
+				"Quantity": 4
+			},
+			"Item2":{
+				"Material":"T4_CLOTH_LEVEL3@3",
+				"Quantity": 4
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_CAPE",
@@ -22669,7 +22679,17 @@
 			"PT-BR": "Capa do Adepto"
 		},
 		"Index": "2337",
-		"UniqueName": "T4_CAPE@4"
+		"UniqueName": "T4_CAPE@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_LEATHER_LEVEL4@4",
+				"Quantity": 4
+			},
+			"Item2":{
+				"Material":"T4_CLOTH_LEVEL4@4",
+				"Quantity": 4
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_CAPE",
