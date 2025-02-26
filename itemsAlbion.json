@@ -22598,7 +22598,18 @@
 			"PT-BR": "Capa do Adepto"
 		},
 		"Index": "2333",
-		"UniqueName": "T4_CAPE"
+		"UniqueName": "T4_CAPE",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_LEATHER",
+				"Quantity": 4
+			},
+			"Item2":{
+				"Material":"T4_CLOTH",
+				"Quantity": 4
+			}
+		}
+
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_CAPE",
@@ -22608,7 +22619,17 @@
 			"PT-BR": "Capa do Adepto"
 		},
 		"Index": "2334",
-		"UniqueName": "T4_CAPE@1"
+		"UniqueName": "T4_CAPE@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_LEATHER_LEVEL1@1",
+				"Quantity": 4
+			},
+			"Item2":{
+				"Material":"T4_CLOTH_LEVEL1@1",
+				"Quantity": 4
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_CAPE",
@@ -22618,7 +22639,17 @@
 			"PT-BR": "Capa do Adepto"
 		},
 		"Index": "2335",
-		"UniqueName": "T4_CAPE@2"
+		"UniqueName": "T4_CAPE@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_LEATHER_LEVEL2@2",
+				"Quantity": 4
+			},
+			"Item2":{
+				"Material":"T4_CLOTH_LEVEL2@2",
+				"Quantity": 4
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_CAPE",
@@ -33823,7 +33854,13 @@
 			"PT-BR": "Botas de Guardião do Adepto"
 		},
 		"Index": "3463",
-		"UniqueName": "T4_SHOES_PLATE_SET3"
+		"UniqueName": "T4_SHOES_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_SHOES_PLATE_SET3",
@@ -33833,7 +33870,13 @@
 			"PT-BR": "Botas de Guardião do Adepto"
 		},
 		"Index": "3464",
-		"UniqueName": "T4_SHOES_PLATE_SET3@1"
+		"UniqueName": "T4_SHOES_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL1@1",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_SHOES_PLATE_SET3",
@@ -33843,7 +33886,13 @@
 			"PT-BR": "Botas de Guardião do Adepto"
 		},
 		"Index": "3465",
-		"UniqueName": "T4_SHOES_PLATE_SET3@2"
+		"UniqueName": "T4_SHOES_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL2@2",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_SHOES_PLATE_SET3",
@@ -33853,7 +33902,13 @@
 			"PT-BR": "Botas de Guardião do Adepto"
 		},
 		"Index": "3466",
-		"UniqueName": "T4_SHOES_PLATE_SET3@3"
+		"UniqueName": "T4_SHOES_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL3@3",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_SHOES_PLATE_SET3",
@@ -33863,7 +33918,13 @@
 			"PT-BR": "Botas de Guardião do Adepto"
 		},
 		"Index": "3467",
-		"UniqueName": "T4_SHOES_PLATE_SET3@4"
+		"UniqueName": "T4_SHOES_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL4@4",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_SHOES_PLATE_SET3",
