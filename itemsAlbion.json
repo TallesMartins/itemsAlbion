@@ -33614,7 +33614,13 @@
 			"PT-BR": "Elmo de Guardião do Grão-mestre"
 		},
 		"Index": "3428",
-		"UniqueName": "T7_HEAD_PLATE_SET3"
+		"UniqueName": "T7_HEAD_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T7_METALBAR",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T7_HEAD_PLATE_SET3",
@@ -33624,7 +33630,13 @@
 			"PT-BR": "Elmo de Guardião do Grão-mestre"
 		},
 		"Index": "3429",
-		"UniqueName": "T7_HEAD_PLATE_SET3@1"
+		"UniqueName": "T7_HEAD_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T7_METALBAR_LEVEL1@1",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T7_HEAD_PLATE_SET3",
@@ -33634,7 +33646,13 @@
 			"PT-BR": "Elmo de Guardião do Grão-mestre"
 		},
 		"Index": "3430",
-		"UniqueName": "T7_HEAD_PLATE_SET3@2"
+		"UniqueName": "T7_HEAD_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL2@2",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T7_HEAD_PLATE_SET3",
@@ -33644,7 +33662,13 @@
 			"PT-BR": "Elmo de Guardião do Grão-mestre"
 		},
 		"Index": "3431",
-		"UniqueName": "T7_HEAD_PLATE_SET3@3"
+		"UniqueName": "T7_HEAD_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T7_METALBAR_LEVEL3@3",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T7_HEAD_PLATE_SET3",
@@ -33654,7 +33678,13 @@
 			"PT-BR": "Elmo de Guardião do Grão-mestre"
 		},
 		"Index": "3432",
-		"UniqueName": "T7_HEAD_PLATE_SET3@4"
+		"UniqueName": "T7_HEAD_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL4@4",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T8_HEAD_PLATE_SET3",
@@ -33664,7 +33694,13 @@
 			"PT-BR": "Elmo de Guardião do Ancião"
 		},
 		"Index": "3433",
-		"UniqueName": "T8_HEAD_PLATE_SET3"
+		"UniqueName": "T8_HEAD_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T8_HEAD_PLATE_SET3",
@@ -33674,7 +33710,13 @@
 			"PT-BR": "Elmo de Guardião do Ancião"
 		},
 		"Index": "3434",
-		"UniqueName": "T8_HEAD_PLATE_SET3@1"
+		"UniqueName": "T8_HEAD_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR_LEVEL1@1",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T8_HEAD_PLATE_SET3",
@@ -33684,7 +33726,13 @@
 			"PT-BR": "Elmo de Guardião do Ancião"
 		},
 		"Index": "3435",
-		"UniqueName": "T8_HEAD_PLATE_SET3@2"
+		"UniqueName": "T8_HEAD_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR_LEVEL2@2",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T8_HEAD_PLATE_SET3",
@@ -33694,7 +33742,13 @@
 			"PT-BR": "Elmo de Guardião do Ancião"
 		},
 		"Index": "3436",
-		"UniqueName": "T8_HEAD_PLATE_SET3@3"
+		"UniqueName": "T8_HEAD_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR_LEVEL3@3",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T8_HEAD_PLATE_SET3",
@@ -33704,7 +33758,13 @@
 			"PT-BR": "Elmo de Guardião do Ancião"
 		},
 		"Index": "3437",
-		"UniqueName": "T8_HEAD_PLATE_SET3@4"
+		"UniqueName": "T8_HEAD_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR_LEVEL4@4",
+				"Quantity": 8
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_ARMOR_PLATE_SET3",
