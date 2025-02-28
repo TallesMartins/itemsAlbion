@@ -33774,7 +33774,13 @@
 			"PT-BR": "Armadura de Guardião do Adepto"
 		},
 		"Index": "3438",
-		"UniqueName": "T4_ARMOR_PLATE_SET3"
+		"UniqueName": "T4_ARMOR_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_ARMOR_PLATE_SET3",
@@ -33784,7 +33790,13 @@
 			"PT-BR": "Armadura de Guardião do Adepto"
 		},
 		"Index": "3439",
-		"UniqueName": "T4_ARMOR_PLATE_SET3@1"
+		"UniqueName": "T4_ARMOR_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL1@1",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_ARMOR_PLATE_SET3",
@@ -33794,7 +33806,13 @@
 			"PT-BR": "Armadura de Guardião do Adepto"
 		},
 		"Index": "3440",
-		"UniqueName": "T4_ARMOR_PLATE_SET3@2"
+		"UniqueName": "T4_ARMOR_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL2@2",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_ARMOR_PLATE_SET3",
@@ -33804,7 +33822,13 @@
 			"PT-BR": "Armadura de Guardião do Adepto"
 		},
 		"Index": "3441",
-		"UniqueName": "T4_ARMOR_PLATE_SET3@3"
+		"UniqueName": "T4_ARMOR_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL3@3",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T4_ARMOR_PLATE_SET3",
@@ -33814,7 +33838,13 @@
 			"PT-BR": "Armadura de Guardião do Adepto"
 		},
 		"Index": "3442",
-		"UniqueName": "T4_ARMOR_PLATE_SET3@4"
+		"UniqueName": "T4_ARMOR_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T4_METALBAR_LEVEL4@4",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_ARMOR_PLATE_SET3",
@@ -33824,7 +33854,13 @@
 			"PT-BR": "Armadura de Guardião do Perito"
 		},
 		"Index": "3443",
-		"UniqueName": "T5_ARMOR_PLATE_SET3"
+		"UniqueName": "T5_ARMOR_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T5_METALBAR",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_ARMOR_PLATE_SET3",
@@ -33834,7 +33870,13 @@
 			"PT-BR": "Armadura de Guardião do Perito"
 		},
 		"Index": "3444",
-		"UniqueName": "T5_ARMOR_PLATE_SET3@1"
+		"UniqueName": "T5_ARMOR_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T5_METALBAR_LEVEL1@1",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_ARMOR_PLATE_SET3",
@@ -33844,7 +33886,13 @@
 			"PT-BR": "Armadura de Guardião do Perito"
 		},
 		"Index": "3445",
-		"UniqueName": "T5_ARMOR_PLATE_SET3@2"
+		"UniqueName": "T5_ARMOR_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T5_METALBAR_LEVEL2@2",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_ARMOR_PLATE_SET3",
@@ -33854,7 +33902,13 @@
 			"PT-BR": "Armadura de Guardião do Perito"
 		},
 		"Index": "3446",
-		"UniqueName": "T5_ARMOR_PLATE_SET3@3"
+		"UniqueName": "T5_ARMOR_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T5_METALBAR_LEVEL3@3",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T5_ARMOR_PLATE_SET3",
@@ -33864,7 +33918,13 @@
 			"PT-BR": "Armadura de Guardião do Perito"
 		},
 		"Index": "3447",
-		"UniqueName": "T5_ARMOR_PLATE_SET3@4"
+		"UniqueName": "T5_ARMOR_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T5_METALBAR_LEVEL4@4",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T6_ARMOR_PLATE_SET3",
@@ -33874,7 +33934,13 @@
 			"PT-BR": "Armadura de Guardião do Mestre"
 		},
 		"Index": "3448",
-		"UniqueName": "T6_ARMOR_PLATE_SET3"
+		"UniqueName": "T6_ARMOR_PLATE_SET3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T6_METALBAR",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T6_ARMOR_PLATE_SET3",
@@ -33884,7 +33950,13 @@
 			"PT-BR": "Armadura de Guardião do Mestre"
 		},
 		"Index": "3449",
-		"UniqueName": "T6_ARMOR_PLATE_SET3@1"
+		"UniqueName": "T6_ARMOR_PLATE_SET3@1",
+		"Recipe":{
+			"Item1":{
+				"Material":"T6_METALBAR_LEVEL1@1",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T6_ARMOR_PLATE_SET3",
@@ -33894,7 +33966,13 @@
 			"PT-BR": "Armadura de Guardião do Mestre"
 		},
 		"Index": "3450",
-		"UniqueName": "T6_ARMOR_PLATE_SET3@2"
+		"UniqueName": "T6_ARMOR_PLATE_SET3@2",
+		"Recipe":{
+			"Item1":{
+				"Material":"T8_METALBAR_LEVEL2@2",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T6_ARMOR_PLATE_SET3",
@@ -33904,7 +33982,13 @@
 			"PT-BR": "Armadura de Guardião do Mestre"
 		},
 		"Index": "3451",
-		"UniqueName": "T6_ARMOR_PLATE_SET3@3"
+		"UniqueName": "T6_ARMOR_PLATE_SET3@3",
+		"Recipe":{
+			"Item1":{
+				"Material":"T6_METALBAR_LEVEL3@3",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T6_ARMOR_PLATE_SET3",
@@ -33914,7 +33998,13 @@
 			"PT-BR": "Armadura de Guardião do Mestre"
 		},
 		"Index": "3452",
-		"UniqueName": "T6_ARMOR_PLATE_SET3@4"
+		"UniqueName": "T6_ARMOR_PLATE_SET3@4",
+		"Recipe":{
+			"Item1":{
+				"Material":"T6_METALBAR_LEVEL4@4",
+				"Quantity": 16
+			}
+		}
 	},
 	{
 		"LocalizationNameVariable": "@ITEMS_T7_ARMOR_PLATE_SET3",
